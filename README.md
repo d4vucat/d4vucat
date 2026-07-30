@@ -91,7 +91,7 @@
 
 ### Gitroll
 
-<a href="https://gitroll.io/profile/un6Pfvtr0lFWmFQEpZvrJdNIYJEL2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/un6Pfvtr0lFWmFQEpZvrJdNIYJEL2?theme=darkEmerald" alt="GitRoll Profile Badge"/></a>
+<a href="https://gitroll.io/profile/un6Pfvtr0lFWmFQEpZvrJdNIYJEL2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/un6Pfvtr0lFWmFQEpZvrJdNIYJEL2?theme=retro" alt="GitRoll Profile Badge"/></a>
 
 ### 🚀 Technology Arsenal
 
