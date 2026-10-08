@@ -217,7 +217,7 @@
 
 ### 📈 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=d4vucat&custom_title=Nick's%20Contribution%20Timeline&bg_color=0d0221&color=00d4ff&line=00d4ff&point=ff6b6b&area_color=00d4ff&area=true&hide_border=true&radius=16" width="100%" alt="Activity Graph" />
+<img src="https://raw.githubusercontent.com/d4vucat/d4vucat/main/activity-graph.svg" width="100%" alt="Activity Graph" />
 
 </div>
 
